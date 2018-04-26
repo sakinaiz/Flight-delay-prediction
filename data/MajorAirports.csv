@@ -1,0 +1,31 @@
+Airport,Code,Region
+Atlanta: Hartsfield,ATL,South
+Baltimore/Washington: International,BWI,East
+Boston: Logan International,BOS,East
+Charlotte: Douglas,CLT,South
+Chicago: Midway,MDW,Central
+Chicago: O'Hare,ORD,Central
+Dallas: Love Field,DAL,Central
+Dallas-Fort Worth: International,DFW,Central
+Denver: International,DEN,Central
+Detroit: Metro Wayne County,DTW,East
+Ft. Lauderdale: International,FLL,South
+Houston: George Bush,IAH,Central
+Las Vegas: McCarran International,LAS,West
+Los Angeles: International,LAX,West
+Miami: International,MIA,South
+Minneapolis-St. Paul: International,MSP,Central
+Newark: Liberty International,EWR,East
+New York: JFK International,JFK,East
+New York: LaGuardia,LGA,East
+Orlando: International,MCO,South
+Philadelphia: International,PHL,East
+Phoenix: Sky Harbor International,PHX,West
+Portland: International,PDX,West
+Salt Lake City: International,SLC,West
+San Diego: Lindbergh Field,SAN,West
+San Francisco: International,SFO,West
+Seattle-Tacoma: International,SEA,West
+Tampa: Tampa International,TPA,South
+Washington: Dulles,IAD,East
+Washington: Reagan National,DCA,East
